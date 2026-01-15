@@ -4,4 +4,4 @@ These exercises are intended to demonstrate data analysis and programming skills
 
 To view the exercises, download the corresponding .html file and open it in your local browser. You can also run all of my R code contained in my .qmd files. 
 
-The data used for my analyses come from the 2022 General Social Survey (GSS).
+The data used for my analyses come from the [2022 General Social Survey (GSS)](https://gss.norc.org/).
