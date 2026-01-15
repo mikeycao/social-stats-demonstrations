@@ -1,0 +1,1 @@
+These exercises are intended to demonstrate data analysis and programming skills learned from a graduate seminar on social statistics taken through the Department of Sociology at Duke University in the Spring 2025 academic year.
