@@ -10,4 +10,4 @@ The data used for my analyses come from the [2022 General Social Survey (GSS)](h
 
 | Contributors | 
 | -------- | 
-| Michael Cao [![Email](https://img.shields.io/badge/Email-mlc105@duke.edu-red?style=for-the-badge&logo=gmail)](mailto:yourname@example.com) |
+| Michael Cao [![Email](https://img.shields.io/badge/Email-mlc105@duke.edu-blue?style=for-the-badge&logo=gmail)](mailto:mlc105@duke.edu) |
