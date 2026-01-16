@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/badge/R-Programming-276DC3?logo=r)
 ![Quarto](https://img.shields.io/badge/Quarto-Documents-75AADB?logo=quarto)
 ![Data](https://img.shields.io/badge/Data-GSS%202022-green)
-[![Email](https://img.shields.io/badge/Contact-Email-red?logo=gmail)](mailto:yourname@example.com)
 
 ## Info 
 
