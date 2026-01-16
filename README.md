@@ -2,7 +2,7 @@
 
 These exercises are intended to demonstrate data analysis and programming skills learned from a graduate seminar on social statistics taken through the Department of Sociology at Duke University in the Spring 2025 academic year. 
 
-Topics span probability<sup>(week3)</sup>; univariate statistics and inferences<sup>(weeks4-6)</sup>; bivariate statistics and inferencess<sup>(weeks7-8)</sup>; general linear (i.e., binomial, linear/Gaussian, Poisson regression) modeling <sup>(weeks9-12)</sup>; and model selection<sup>(week13)</sup>. Included also are a number of data visualizations, simulations, and mathematical expressions that are intended to make statistical concepts more intuitive. 
+Topics span probability<sup>(week3)</sup>; univariate statistics and inferences<sup>(weeks4-6)</sup>; bivariate statistics and inferencess<sup>(weeks7-8)</sup>; general linear (i.e., binomial, linear/Gaussian, Poisson regression) modeling<sup>(weeks9-12)</sup>; and model selection<sup>(week13)</sup>. Included also are a number of data visualizations, simulations, and mathematical expressions that are intended to make statistical concepts more intuitive. 
 
 To view the exercises, download the corresponding `.html` file and open it in your local browser. You can also run all of my R code contained in my `.qmd` files. 
 
